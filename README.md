@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarv(ayan)paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
 
 <h3 align="left">Connect with me:</h3>
